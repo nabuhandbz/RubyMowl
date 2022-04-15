@@ -20,15 +20,15 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/bjlbGCZ.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/TQuk4L0.jpeg" alt="GIF" width="300" height="270"/>
 </p>
 
   <p align="center">
-<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/BOT-ABU_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="RubyMowl" src="https://img.shields.io/badge/nabuhan-DBZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 nabuhan dbz
     <br>
        | © |
         Reserved |
@@ -36,37 +36,32 @@
 </p>
 
 
-<a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/nabuhandbz/RubyMowl/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
-<a href="https://replit.com/@Afx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@nabuhandbz/RubyMowl-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
-      𝑻𝑯𝑰𝑺 𝑽𝑰𝑫𝑬𝑶 𝑾𝑨𝑪𝑯 𝑭𝑼𝑳𝑳 𝑷𝑳𝒁 
-      HEROKO PROBLOMS FIXING VIDEO
-<a href="https://youtu.be/AwlH6vmOz9o"><img src="https://img.shields.io/badge/-DEPLOY%20ERROR%20PROBLOMS-634988?style=for-the-badge&logo=heroku&logoColor=white">
-<br>
+      
 
-1. Click [SCAN](https://replit.com/@Afx-Abu/ABU-SER-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ABU_QR_CODE).
+1. Click [SCAN](https://replit.com/@nabuhandbz/RubyMowl-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2. You will get a long text that needs after 4th step (RubyMowl_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/Afx-Abu/Abu_ser/fork)
+4. Click [FORK](https://github.com/nabuhandbz/RubyMowl/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser
+https://heroku.com/deploy?template=https://github.com/nabuhandbz/RubyMowl
 ``` 
-6. Now change Afx-Abu with your github username and click ENJOY<br>
+6. Now change RubyMowl with your github username and click ENJOY<br>
    <br>
-# Contact for help:
-   * Click [Contact](https://wa.me/7025994178?text=Need+Help🙂) Here For Contact Afx-Abu
-# Contact for help:
-   * Click [Contact](https://wa.me/9567489404?text=Need+Help🙂) Here For Contact Shefin 
+
+
   
   
   ## Developers
   <div align="center">
     
-  [![Afx-Abu](https://github.com/Afx-Abu.png?size=100)](https://github.com/Afx-Abu)
+  [![nabuhandbz](https://github.com/nabuhandbz.png?size=100)](https://github.com/nabuhandbz)
 
-[Afx-Abu](https://github.com/Afx-Abu)        
+[nabuhandbz](https://github.com/nabuhandbz)        
 Developer, Base, Bug Fixes, Modules
