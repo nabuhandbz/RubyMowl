@@ -61,7 +61,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nabuhandbz/RubyMowl-QR?v=1)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/nabuhandbz/94825b1128d2c8f63ac1aadbf844174e)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/nabuhandbz/7c6fcaf53c089ba152751c5ea28306da)   
  
   </div>
  
